@@ -1,0 +1,27 @@
+{
+  "totalArticles": 10,
+  "articlesWithContent": 6,
+  "articlesWithTags": 6,
+  "articlesWithImages": 5,
+  "articlesWithVideos": 0,
+  "categoriesCount": [
+    [
+      "Политика",
+      7
+    ],
+    [
+      "Экономика",
+      2
+    ],
+    [
+      "Общество",
+      1
+    ]
+  ],
+  "sentimentStats": {
+    "positive": 3,
+    "negative": 1,
+    "neutral": 6
+  },
+  "executionTimeMs": 14347
+}

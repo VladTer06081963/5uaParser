@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Политика",
+    "url": "https://www.rbc.ru/politics/?utm_source=topline",
+    "content": "",
+    "author": "РБК",
+    "tags": [],
+    "publishedAt": "",
+    "imageUrl": "",
+    "hasVideo": false,
+    "category": "Политика",
+    "sentiment": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1,
+      "sentiment": "neutral"
+    },
+    "parsedAt": "2025-04-22T20:34:09.769Z"
+  },
+  {
+    "title": "Экономика",
+    "url": "https://www.rbc.ru/economics/?utm_source=topline",
+    "content": "",
+    "author": "РБК",
+    "tags": [],
+    "publishedAt": "",
+    "imageUrl": "",
+    "hasVideo": false,
+    "category": "Экономика",
+    "sentiment": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1,
+      "sentiment": "neutral"
+    },
+    "parsedAt": "2025-04-22T20:34:10.305Z"
+  },
+  {
+    "title": "Политика",
+    "url": "https://www.rbc.ru/politics/",
+    "content": "",
+    "author": "РБК",
+    "tags": [],
+    "publishedAt": "",
+    "imageUrl": "",
+    "hasVideo": false,
+    "category": "Политика",
+    "sentiment": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1,
+      "sentiment": "neutral"
+    },
+    "parsedAt": "2025-04-22T20:34:12.350Z"
+  },
+  {
+    "title": "Экономика",
+    "url": "https://www.rbc.ru/economics/",
+    "content": "",
+    "author": "РБК",
+    "tags": [],
+    "publishedAt": "",
+    "imageUrl": "",
+    "hasVideo": false,
+    "category": "Экономика",
+    "sentiment": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1,
+      "sentiment": "neutral"
+    },
+    "parsedAt": "2025-04-22T20:34:10.513Z"
+  }
+]

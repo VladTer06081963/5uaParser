@@ -1,15 +1,17 @@
 {
   "name": "5uaparser",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "rbc-parser.mjs",
+  "type": "module",
   "scripts": {
-    "start": "node 5ua-parser.js"
+    "start": "node rbc-parser.mjs"
   },
   "keywords": [],
   "author": "WladTer",
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "cli-progress": "^3.12.0",
     "puppeteer": "^24.6.1"
   }
 }
